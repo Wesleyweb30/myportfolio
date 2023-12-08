@@ -1,0 +1,17 @@
+{
+    "name": "wesle/myportfolio",
+    "description": "My portfolio in php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "system\\": "system/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesley",
+            "email": "wesleyweb3.0@gmail.com"
+        }
+    ],
+    "require": {}
+}
